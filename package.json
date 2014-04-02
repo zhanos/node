@@ -1,0 +1,24 @@
+{
+  "name": "node",
+  "version": "0.0.0",
+  "description": "Ejemplo Node en Heroku",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhanos/node"
+  },
+  "keywords": [
+    "node",
+    "heroku"
+  ],
+  "author": "Rafa Ruiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhanos/node/issues"
+  },
+  "homepage": "https://github.com/zhanos/node"
+}
